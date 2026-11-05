@@ -246,3 +246,4 @@ footer { display: flex; justify-content: space-between; gap: 22px; padding: 25px
   *, *::before, *::after { animation: none !important; transition: none !important; scroll-behavior: auto !important; }
   .init-screen { display: none; }
 }
+.grid + .pageLinks { margin-top: 36px; }
